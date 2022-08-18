@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/khizarsiddiqui?tab=repositories](https://github.com/khizarsiddiqui?tab=repositories)
 
-- 💬 Ask me about **C++, Java, Web**
+- 💬 Ask me about **C++, Java, Web, Python**
 
 - 📫 How to reach me **khizarsiddiqui10@gmail.com**
 
