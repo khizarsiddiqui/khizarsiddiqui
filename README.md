@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **khizarsiddiqui10@gmail.com**
 
-- 📄 Check me on LinkedIn <a href="https://www.linkedin.com/in/khizar-siddiqui-079669217/" target="blank">
+- 📄 Check me on LinkedIn **https://www.linkedin.com/in/khizar-siddiqui-079669217/**
 
 - ⚡ Fun fact **I'm a passionate footballer, Photographer with good editing skills and a car enthusiast.**
 
