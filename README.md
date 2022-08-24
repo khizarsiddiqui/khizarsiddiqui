@@ -29,7 +29,7 @@
 <p align="left">
 <a href="https://twitter.com/K10Phantom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="phantomk10" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/khizar-siddiqui-079669217/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khizar siddiqui" height="30" width="40" /></a>
-<a href="https://fb.com/khizar siddiqui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="khizar siddiqui" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100004138755864" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="khizar siddiqui" height="30" width="40" /></a>
 <a href="https://instagram.com/khizar.siddiqui.10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="khizar.siddiqui.10" height="30" width="40" /></a>
 </p>
 
