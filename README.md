@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khizarsiddiqui" alt="khizarsiddiqui" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/phantomk10" target="blank"><img src="https://img.shields.io/twitter/follow/phantomk10?logo=twitter&style=for-the-badge" alt="phantomk10" /></a> </p>
+<p align="left"> <a href="https://twitter.com/K10Phantom" target="blank"><img src="https://img.shields.io/twitter/follow/phantomk10?logo=twitter&style=for-the-badge" alt="phantomk10" /></a> </p>
 
 - 🔭 I’m currently working on [Library Management System](https://github.com/khizarsiddiqui/LibraryManagement)
 
@@ -20,6 +20,8 @@
 - 💬 Ask me about **C++, Java, Web, Python**
 
 - 📫 How to reach me **khizarsiddiqui10@gmail.com**
+
+- 📄 Check me on LinkedIn <a href="https://www.linkedin.com/in/khizar-siddiqui-079669217/" target="blank">
 
 - ⚡ Fun fact **I'm a passionate footballer, Photographer with good editing skills and a car enthusiast.**
 
