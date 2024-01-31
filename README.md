@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/K10Phantom" target="blank"><img src="https://img.shields.io/twitter/follow/phantomk10?logo=twitter&style=for-the-badge" alt="phantomk10" /></a> </p>
 
-- 🔭 I’m currently working on [Mechanics Mangao | Car service app](https://github.com/khizarsiddiqui/Mechanics-Mangao)
+- 🔭 I’m currently working on [AutoCareHub | Car service app](https://github.com/khizarsiddiqui/Mechanics-Mangao)
 
 - 🌱 I’m currently learning **SQL, System and Network Administration, Flutter Development**
 
-- 👯 I’m looking to collaborate on [Mechanics Mangao | Car service app](https://github.com/khizarsiddiqui/Mechanics-Mangao)
+- 👯 I’m looking to collaborate on [AutoCareHub | Car service app](https://github.com/khizarsiddiqui/Mechanics-Mangao)
 
 - 🤝 I’m looking for help with [Id generator](https://github.com/khizarsiddiqui/Idgenerator)
 
@@ -23,7 +23,7 @@
 
 - 📄 Check me on LinkedIn **https://www.linkedin.com/in/khizar-siddiqui-079669217/**
 
-- ⚡ Fun fact **I'm a passionate footballer, Photographer with good editing skills and a car enthusiast.**
+- ⚡ Fun fact **I'm a passionate footballer, Photographer with good editing skills and a Car enthusiast.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
