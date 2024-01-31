@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [AutoCareHub | Car service app](https://github.com/khizarsiddiqui/Mechanics-Mangao)
 
-- 🌱 I’m currently learning **SQL, System and Network Administration, Flutter Development**
+- 🌱 I’m currently learning **SQL, Python, and Flutter Development**
 
 - 👯 I’m looking to collaborate on [AutoCareHub | Car service app](https://github.com/khizarsiddiqui/Mechanics-Mangao)
 
@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/khizarsiddiqui?tab=repositories](https://github.com/khizarsiddiqui?tab=repositories)
 
-- 💬 Ask me about **C++, Java, Web, Python**
+- 💬 Ask me about **C++, Java, Web, Python, Flutter**
 
 - 📫 How to reach me **khizarsiddiqui10@gmail.com**
 
