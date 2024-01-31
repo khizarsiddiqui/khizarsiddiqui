@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khizar Siddiqui</h1>
-<h3 align="center">A passionate frontend developer from Pakistan, mostly works in Python.</h3>
+<h3 align="center">A passionate frontend and mobile app developer from Pakistan.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khizarsiddiqui&label=Profile%20views&color=0e75b6&style=flat" alt="khizarsiddiqui" /> </p>
 
